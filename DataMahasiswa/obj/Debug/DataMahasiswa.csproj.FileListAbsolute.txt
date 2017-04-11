@@ -1,0 +1,9 @@
+c:\users\widhian\documents\visual studio 2012\Projects\DataMahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.exe.config
+c:\users\widhian\documents\visual studio 2012\Projects\DataMahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.exe
+c:\users\widhian\documents\visual studio 2012\Projects\DataMahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.pdb
+c:\users\widhian\documents\visual studio 2012\Projects\DataMahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.csprojResolveAssemblyReference.cache
+c:\users\widhian\documents\visual studio 2012\Projects\DataMahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.mainForm.resources
+c:\users\widhian\documents\visual studio 2012\Projects\DataMahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.Properties.Resources.resources
+c:\users\widhian\documents\visual studio 2012\Projects\DataMahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.csproj.GenerateResource.Cache
+c:\users\widhian\documents\visual studio 2012\Projects\DataMahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.exe
+c:\users\widhian\documents\visual studio 2012\Projects\DataMahasiswa\DataMahasiswa\obj\Debug\DataMahasiswa.pdb
