@@ -2,6 +2,6 @@
 
 ![Image of Data Mahasiswa](https://i.imgur.com/MZOrqUT.jpg)
 
-A simple CRUD (Create Read Update Delete) using C# and SQL Server 2008
+A simple CRUD (Create Read Update Delete) to manage student database using C# and SQL Server 2008
 
-Table Column: mhsTableID, nim, nama
+Table Columns: mhsTableID, nim, nama
